@@ -1,2 +1,2 @@
 # GT_MGT6203
-Notice that this is the link: [VPN services](https://faq.oit.gatech.edu/content/how-do-i-get-started-campus-vpn)
+Note that some regions may require VPN (ie. [GT VPN](https://faq.oit.gatech.edu/content/how-do-i-get-started-campus-vpn))
