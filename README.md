@@ -1,1 +1,1 @@
-# GT_MGT6203
+# GT_Data Analytics in Business
